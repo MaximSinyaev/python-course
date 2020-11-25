@@ -1,0 +1,2 @@
+14	BOW Bag of words
+1000	CBOW Continius bag of words

@@ -1,0 +1,5 @@
+1	Article 1   Some text to test inverted index
+2	Article 2   Another paragraph with no common words with first one
+17	Article 3   Sample text similar to first article for test
+5	АФЫФЫё фывфапфва фывтлавы фывтлфы ΔG ‡
+
